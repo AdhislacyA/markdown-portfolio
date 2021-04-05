@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Beautiful image of Girrafes walking as the sun sets in Kenya](https://magicalkenya.com/wp-content/uploads/2014/08/homebannerimg6.jpg)
