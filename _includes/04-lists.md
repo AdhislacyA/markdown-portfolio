@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Favourite things to do.
+- Explore nature / hike
+- Listen to music, sing and dance
+- Cook (I love homemade foods 😋)
+- Skating and bike riding
