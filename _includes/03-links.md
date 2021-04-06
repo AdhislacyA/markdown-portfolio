@@ -1,1 +1,1 @@
-[LinkedIn](https://www.linkedin.com/in/anyaboe/)
+[GitHub](https://github.com/nyakwarnyanya)
