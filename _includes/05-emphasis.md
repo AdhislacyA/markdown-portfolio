@@ -1,1 +1,5 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a curious and open minded learner, and actively seeking opportunities to apply and expand my skills in
+   a) Data & Statistical Analysis
+   b) Data Visualization
+   c) Meta-Analysis
